@@ -1,3 +1,5 @@
+cask_args appdir: "/Applications"
+
 tap "caskroom/cask"
 tap "caskroom/fonts"
 tap "caskroom/versions"
@@ -6,17 +8,13 @@ tap "homebrew/core"
 tap "homebrew/services"
 tap "homebrew/versions"
 tap "olleolleolle/adr-tools"
-tap "phrase/brewed"
-tap "puma/puma"
 
 brew "awscli"
 brew "cmake"
 brew "ctags"
 brew "direnv"
 brew "envchain"
-brew "forego"
 brew "fzf"
-brew "gd"
 brew "git"
 brew "pinentry"
 brew "gnupg"
@@ -35,18 +33,14 @@ brew "msmtp"
 brew "mtr"
 brew "tokyo-cabinet"
 brew "mutt"
-brew "mysql@5.6", restart_service: true
-brew "nginx", restart_service: true
 brew "nmap"
 brew "offlineimap"
 brew "p7zip"
 brew "pgcli"
 brew "pinentry-mac"
-brew "postgresql@9.4"
 brew "ruby-build"
 brew "rbenv"
 brew "reattach-to-user-namespace"
-brew "redis", restart_service: true
 brew "shellcheck"
 brew "siege"
 brew "the_silver_searcher"
@@ -58,8 +52,6 @@ brew "vim", args: ["with-luajit"]
 brew "watch"
 brew "watchman"
 brew "olleolleolle/adr-tools/adr_tools"
-brew "phrase/brewed/phraseapp"
-brew "puma/puma/puma-dev"
 
 cask "1password"
 cask "bartender"
@@ -86,4 +78,3 @@ mas "Aware", id: 1082170746
 mas "Be Focused", id: 973134470
 mas "Kindle", id: 405399194
 mas "Monosnap", id: 540348655
-mas "Xcode", id: 497799835
