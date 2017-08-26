@@ -52,6 +52,7 @@ brew "vim", args: ["with-luajit"]
 brew "watch"
 brew "watchman"
 brew "olleolleolle/adr-tools/adr_tools"
+brew "zsh"
 
 cask "1password"
 cask "bartender"
