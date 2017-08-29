@@ -1,5 +1,6 @@
 cask_args appdir: "/Applications"
 
+tap "buo/cask-upgrade"
 tap "caskroom/cask"
 tap "caskroom/fonts"
 tap "caskroom/versions"
