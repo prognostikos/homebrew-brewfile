@@ -77,6 +77,5 @@ cask "torbrowser"
 cask "vmware-fusion"
 
 mas "Aware", id: 1082170746
-mas "Be Focused", id: 973134470
 mas "Kindle", id: 405399194
 mas "Monosnap", id: 540348655
