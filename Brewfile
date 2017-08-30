@@ -75,6 +75,7 @@ cask "slack"
 cask "spotify"
 cask "torbrowser"
 cask "vmware-fusion"
+cask "zoomus"
 
 mas "Aware", id: 1082170746
 mas "Kindle", id: 405399194
