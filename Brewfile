@@ -48,7 +48,7 @@ brew "tig"
 brew "tmux"
 brew "tree"
 brew "unrar"
-brew "vim", args: ["with-luajit"]
+brew "vim", args: ["with-luajit", "with-override-system-vi"]
 brew "watch"
 brew "watchman"
 brew "olleolleolle/adr-tools/adr_tools"
