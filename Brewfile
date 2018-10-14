@@ -71,7 +71,7 @@ cask "skype"
 cask "slack"
 cask "softu2f"
 cask "spotify"
-cask "torbrowser"
+cask "tor-browser"
 cask "zoomus"
 
 mas "Aware", id: 1082170746
