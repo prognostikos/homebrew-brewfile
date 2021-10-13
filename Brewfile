@@ -31,7 +31,7 @@ brew "the_silver_searcher"
 brew "tmux"
 brew "tree"
 brew "unrar"
-brew "vim", args: ["with-override-system-vi"]
+brew "vim"
 
 cask "1password"
 cask "bartender"
