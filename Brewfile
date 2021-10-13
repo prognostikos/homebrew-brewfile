@@ -1,6 +1,6 @@
 cask_args appdir: "/Applications"
 
-tap "caskroom/fonts"
+tap "homebrew/cask-fonts"
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/services"
