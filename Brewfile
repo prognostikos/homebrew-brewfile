@@ -30,7 +30,6 @@ brew "shellcheck"
 brew "the_silver_searcher"
 brew "tmux"
 brew "tree"
-brew "unrar"
 brew "vim"
 
 cask "1password"
