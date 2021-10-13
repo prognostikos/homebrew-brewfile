@@ -44,6 +44,6 @@ cask "omnifocus"
 cask "signal"
 cask "sizeup"
 cask "slack"
-cask "zoomus"
+cask "zoom"
 
 mas "Monosnap", id: 540348655
