@@ -6,7 +6,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/services"
 
 brew "awscli"
-brew "ctags"
+brew "universal-ctags"
 brew "direnv"
 brew "envchain"
 brew "fzf"
