@@ -1,9 +1,6 @@
 cask_args appdir: "/Applications"
 
 tap "heroku/brew"
-tap "homebrew/bundle"
-tap "homebrew/cask-fonts"
-tap "homebrew/services"
 
 brew "awscli"
 brew "direnv"
