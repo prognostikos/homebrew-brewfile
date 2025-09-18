@@ -51,5 +51,6 @@ cask "ransomwhere"
 cask "reikey"
 cask "sizeup"
 cask "slack"
+cask "whatsapp"
 
 mas "Monosnap", id: 540348655
