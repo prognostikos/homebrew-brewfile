@@ -35,6 +35,7 @@ brew "universal-ctags"
 brew "urlview"
 brew "w3m"
 brew "watch"
+brew "yarn"
 
 cask "1password"
 cask "1password-cli"
